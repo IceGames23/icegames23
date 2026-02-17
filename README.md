@@ -15,11 +15,11 @@ I'm a passionate Java developer specializing in **Minecraft plugin development**
 - 💬 Ask me about **Minecraft plugin development**, **Java**, or **Game Design**
 - ⚡ Fun fact: I had a Minecraft server with 50.000 unique players when I was 15.
 
+[![wakatime](https://wakatime.com/badge/user/4362be8b-e7f8-476c-b120-7c0abebaa05b.svg)](https://wakatime.com/@4362be8b-e7f8-476c-b120-7c0abebaa05b)
+
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/4362be8b-e7f8-476c-b120-7c0abebaa05b.svg)](https://wakatime.com/@4362be8b-e7f8-476c-b120-7c0abebaa05b)
 
 ### Dev Languages
 
@@ -52,10 +52,11 @@ I'm a passionate Java developer specializing in **Minecraft plugin development**
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
 </div>
+</div>
 
 ## 🌟 Featured Projects
 
-- **AfterLands Website:** https://afterlands.com/
+- **[AfterLands Website](https://afterlands.com/)** - A modern gaming website for a Minecraft server
 - **[IGLanguages](https://github.com/IceGames23/IGLanguages)** - A powerful multi-language management system for Minecraft plugins ⭐ 4
 - **[ptero-plugin-updater](https://github.com/IceGames23/ptero-plugin-updater)** - Automated plugin updater for Pterodactyl panels ⭐ 2
 
@@ -68,9 +69,6 @@ I'm a passionate Java developer specializing in **Minecraft plugin development**
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
 </div>
-<!-- Uncomment and add your Discord invite link:
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
--->
 
 💼 Open to collaborations on Minecraft plugin development and server management tools!
 
