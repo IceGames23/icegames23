@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 I'm a passionate Java developer specializing in **Minecraft plugin development**, **Game Design** and **Web Development**. I love creating gaming experiences that will create memories and make players happier.
@@ -17,11 +15,11 @@ I'm a passionate Java developer specializing in **Minecraft plugin development**
 - 💬 Ask me about **Minecraft plugin development**, **Java**, or **Game Design**
 - ⚡ Fun fact: I had a Minecraft server with 50.000 unique players when I was 15.
 
----
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/4362be8b-e7f8-476c-b120-7c0abebaa05b.svg)](https://wakatime.com/@4362be8b-e7f8-476c-b120-7c0abebaa05b)
 
 ### Dev Languages
 
@@ -55,50 +53,11 @@ I'm a passionate Java developer specializing in **Minecraft plugin development**
   <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
 </div>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icegames23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icegames23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
----
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 10 February 2026 - To: 17 February 2026
-
-Total Time: 10 hrs 9 mins
-
-Markdown     4 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.31 %
-Java         2 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
-YAML         1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-XML          35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Python       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
 ## 🌟 Featured Projects
 
 - **AfterLands Website:** https://afterlands.com/
 - **[IGLanguages](https://github.com/IceGames23/IGLanguages)** - A powerful multi-language management system for Minecraft plugins ⭐ 4
 - **[ptero-plugin-updater](https://github.com/IceGames23/ptero-plugin-updater)** - Automated plugin updater for Pterodactyl panels ⭐ 2
-
----
 
 ## 🤝 Connect With Me
 
