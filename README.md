@@ -56,6 +56,19 @@ I'm a passionate developer specializing in **Minecraft plugin development** and 
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 10 February 2026 - To: 17 February 2026
+
+Total Time: 10 hrs 9 mins
+
+Markdown     4 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.31 %
+Java         2 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
+YAML         1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+XML          35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Python       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
