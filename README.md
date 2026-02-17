@@ -10,12 +10,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate Java developer specializing in **Minecraft plugin development** and **server management tools**. I love creating utilities that enhance the gaming experience and make server administration easier.
+I'm a passionate Java developer specializing in **Minecraft plugin development**, **Game Design** and **Web Development**. I love creating gaming experiences that will create memories and make players happier.
 
-- 🔭 Currently working on **IGLanguages** and **IGNpcUtils**
+- 🔭 Currently working on **AfterLands** a inovative Prison MMORPG on Minecraft.  
 - 🌱 Learning advanced Java development and DevOps practices
-- 💬 Ask me about **Minecraft plugin development**, **Java**, or **Shell scripting**
-- ⚡ Fun fact: I enjoy optimizing server performance and creating innovative gaming solutions
+- 💬 Ask me about **Minecraft plugin development**, **Java**, or **Game Design**
+- ⚡ Fun fact: I had a Minecraft server with 50.000 unique players when I was 15.
 
 ---
 
@@ -40,18 +40,10 @@ I'm a passionate Java developer specializing in **Minecraft plugin development**
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IceGames23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/IceGames23)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IceGames23&theme=tokyonight&hide_border=true)](https://github.com/IceGames23)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IceGames23&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/IceGames23)
-
 </div>
 
 ---
-
-## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
 
@@ -73,16 +65,7 @@ Python       22 mins         █░░░░░░░░░░░░░░░░
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-[![IGLanguages](https://github-readme-stats.vercel.app/api/pin/?username=IceGames23&repo=IGLanguages&theme=tokyonight&hide_border=true)](https://github.com/IceGames23/IGLanguages)
-[![IGNpcUtils](https://github-readme-stats.vercel.app/api/pin/?username=IceGames23&repo=IGNpcUtils&theme=tokyonight&hide_border=true)](https://github.com/IceGames23/IGNpcUtils)
-[![ptero-plugin-updater](https://github-readme-stats.vercel.app/api/pin/?username=IceGames23&repo=ptero-plugin-updater&theme=tokyonight&hide_border=true)](https://github.com/IceGames23/ptero-plugin-updater)
-
-</div>
-
-### 📦 Notable Repositories
-
+- **AfterLands Website:** https://afterlands.com/
 - **[IGLanguages](https://github.com/IceGames23/IGLanguages)** - A powerful multi-language management system for Minecraft plugins ⭐ 4
 - **[ptero-plugin-updater](https://github.com/IceGames23/ptero-plugin-updater)** - Automated plugin updater for Pterodactyl panels ⭐ 2
 
