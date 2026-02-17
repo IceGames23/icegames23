@@ -83,8 +83,7 @@ Python       22 mins         █░░░░░░░░░░░░░░░░
 
 ### 📦 Notable Repositories
 
-- **[IGLanguages](https://github.com/IceGames23/IGLanguages)** - A powerful language management system for Minecraft plugins ⭐ 4
-- **[IGNpcUtils](https://github.com/IceGames23/IGNpcUtils)** - Enhanced NPC utilities for Citizens2 plugin ⭐ 1
+- **[IGLanguages](https://github.com/IceGames23/IGLanguages)** - A powerful multi-language management system for Minecraft plugins ⭐ 4
 - **[ptero-plugin-updater](https://github.com/IceGames23/ptero-plugin-updater)** - Automated plugin updater for Pterodactyl panels ⭐ 2
 
 ---
