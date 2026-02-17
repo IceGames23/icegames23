@@ -1,10 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm IceGames23!
+# 👋 Hi, I'm Vítor!
 
-### 🎮 Game Developer | 🔧 Plugin Developer | �� Open Source Enthusiast
-
-[![Profile Views](https://komarev.com/ghpvc/?username=IceGames23&color=blue&style=flat-square&label=Profile+Views)](https://github.com/IceGames23)
+### Game Designer | Java Developer | Web Developer
 
 </div>
 
@@ -12,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer specializing in **Minecraft plugin development** and **server management tools**. I love creating utilities that enhance the gaming experience and make server administration easier.
+I'm a passionate Java developer specializing in **Minecraft plugin development** and **server management tools**. I love creating utilities that enhance the gaming experience and make server administration easier.
 
 - 🔭 Currently working on **IGLanguages** and **IGNpcUtils**
 - 🌱 Learning advanced Java development and DevOps practices
