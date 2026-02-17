@@ -89,7 +89,9 @@ I'm a passionate developer specializing in **Minecraft plugin development** and 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-IceGames23-181717?style=for-the-badge&logo=github)](https://github.com/IceGames23)
+<!-- Uncomment and add your Discord invite link:
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
+-->
 
 💼 Open to collaborations on Minecraft plugin development and server management tools!
 
