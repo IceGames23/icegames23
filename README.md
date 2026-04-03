@@ -26,6 +26,8 @@ I'm a passionate Java developer specializing in **Minecraft plugin development**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
